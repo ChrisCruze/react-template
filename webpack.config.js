@@ -8,7 +8,7 @@ module.exports = {
     entry: path.join(__dirname, '/src/index.js'),
     output: {
         filename: 'react.js',
-        path:"/"
+        path:"/Users/chriscruz/Documents/Github/Archive/react-build-test/"
     },
     module:{
         rules:[
